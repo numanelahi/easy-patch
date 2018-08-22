@@ -4,7 +4,7 @@
   "description": "Easy to use and compact implementation of JSON-patch(RFC6902)",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/numanelahi/easy-patch.git"
   },
   "main": "index.js",
   "scripts": {
