@@ -1,0 +1,19 @@
+{
+  "name": "easy-patch",
+  "version": "1.0.0",
+  "description": "Easy to use and compact implementation of JSON-patch(RFC6902)",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "NumanElahi ('elahinouman.elahi@gmail.com')",
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "^5.2.0",
+    "should": "^13.2.3"
+  }
+}
